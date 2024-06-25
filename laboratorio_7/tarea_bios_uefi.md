@@ -1,4 +1,4 @@
-![image](https://github.com/EmanuelVolpe09/Sistemas-Operativos/assets/171646936/b8be65c5-9562-4d3d-ba68-2bb8000b90e8)
+![image]()
 # Tarea: BIOS vs UEFI
 
 ## Ejercicio 1
